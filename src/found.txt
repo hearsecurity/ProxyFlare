@@ -1,0 +1,5 @@
+www.nasa.gov IP: 192.0.66.108
+webmail.nasa.gov IP: 198.117.0.85
+mobile.nasa.gov IP: 18.173.166.13
+beta.nasa.gov IP: 192.0.66.108
+calendar.nasa.gov IP: 18.173.166.13
